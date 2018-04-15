@@ -1,8 +1,6 @@
 ---
 title: "Firstpost"
-date: 2018-04-15T20:31:08Z
-draft: true
+date: 2018-04-15T21:28:01Z
 ---
 
-
-Some test text
+Some test text
